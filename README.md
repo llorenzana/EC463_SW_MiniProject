@@ -1,5 +1,5 @@
 # EC463 SW Mini Project - Mood Chat Application 
-**Team 19: _Killian McShane_ & _Lea Lorenzana-Garcia_**
+**Team 19:** _Killian McShane_ & _Lea Lorenzana-Garcia_
 
 ### Requirements: 
 * Can login to the application using a Google Email Account
