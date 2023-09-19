@@ -21,7 +21,7 @@
 * _React Native Firebase - Google Sign In Tutorial 🔥_: https://youtu.be/XB_gNDoOhjY?si=grZf8Za5FJtnUBpP
 
 
-  # Things We Tried To Implement But Didn't Work:
+# Things We Tried To Implement But Didn't Work:
 
   ### Google Sign on via WebBrowser.maybeCompleteAuthSession();
   * Sign on Button Worked But wouldn't return back to app after authentication
