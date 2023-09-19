@@ -14,6 +14,13 @@
 * Utilize cross-platform environment to build an application 
 
 # Implementation 
+### Setup & API's: 
+* Used React Native with Firebase to develop
+* Use of Expo and Expo Go:
+  *   Use EAS to config files
+* Used Git for Code
+
+### Use of App (Images): 
 
 ### Video Tutorials and References: 
 * _Build a Realtime Chat App with React Native and Firebase | Tutorial 2023_ : https://youtu.be/Ov3Z3vD5zFw?si=PYisHo4_eWxIrTLO 
