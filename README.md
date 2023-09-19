@@ -22,7 +22,7 @@
 
 
 # Things We Tried To Implement But Didn't Work:
-
+## See Files For potential Changes Here: https://github.com/llorenzana/EC463_SW_MiniProject/tree/main/tryImplementGoogleLoginviaFirebase
   ### Google Sign on via WebBrowser.maybeCompleteAuthSession();
   * Sign on Button Worked But wouldn't return back to app after authentication
   * Google Sign On Button:
