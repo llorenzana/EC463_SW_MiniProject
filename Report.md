@@ -1,4 +1,4 @@
-# EC463 SW Mini Project - Mood Chat Application 
+a# EC463 SW Mini Project - Mood Chat Application 
 **Team 19:** _Killian McShane_ & _Lea Lorenzana-Garcia_
 
 ### Requirements: 
@@ -17,7 +17,7 @@
 ### Setup & API's: 
 * Used React Native with Firebase to develop
 * Use of Expo and Expo Go:
-  *   Use EAS to config files
+* Use EAS to config files
 * Used Git for Code
 
 ### Use of App (Images): 
@@ -74,7 +74,7 @@
  
    ![after sign on](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/f3f320da-b22d-41d1-9bad-096f2cfbc34e)
 
-
+  ### 
   ### Potenital New App Layout:
   * use of tabs and stacking
   * When an item is selected it is highlighted via change of color:
@@ -90,3 +90,5 @@
         
   ![settings](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/e5e9958a-5888-40ec-b120-51d001c11adb)
 
+###Notice: Performance Update In Progress
+We're aware of the current slow response times experienced in our Mood Chat Application. Our team is actively working to enhance the speed and functionality for a smoother user experience. Your patience is appreciated as we fine-tune the app. Stay tuned for updates, and thank you for your support!
