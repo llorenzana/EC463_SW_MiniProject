@@ -23,11 +23,13 @@
 ### Use of App (Images): 
 * Signup Screen:
   
-<insert photo>
+  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/ce8090d0-8490-4d2d-be74-251d67c1efa7)
+
 
 * Login Screen:
   
-<insert photo>
+  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/e4d2f67e-9584-4ad9-af48-3ae82e9502b7)
+
   
 * Authentication Verification:
 
@@ -35,11 +37,13 @@
 
 * Home Screen:
   
-  <insert photo>
+  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/78e4e76d-33fc-4cae-b280-9baf7d008f58)
+
   
 * Chat Screen:
   
-  <insert photo> 
+  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/2b785a8e-5ee0-4cd0-820a-5da2a3305fb4)
+
  
 * Firestore db: 
 
