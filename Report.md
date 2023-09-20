@@ -90,5 +90,5 @@ a# EC463 SW Mini Project - Mood Chat Application
         
   ![settings](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/e5e9958a-5888-40ec-b120-51d001c11adb)
 
-###Notice: Performance Update In Progress
-We're aware of the current slow response times experienced in our Mood Chat Application. Our team is actively working to enhance the speed and functionality for a smoother user experience. Your patience is appreciated as we fine-tune the app. Stay tuned for updates, and thank you for your support!
+  # Notice: Performance Update In Progress
+There are currently slow response times experienced in our Mood Chat Application. Our team is actively working to  enhance the speed and functionality for a smoother user experience as well as a video demonstration of its functionality. Your patience is appreciated as we fine-tune the app. Stay tuned for updates, and thank you for your support!
