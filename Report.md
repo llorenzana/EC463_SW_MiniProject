@@ -21,6 +21,26 @@
 * Used Git for Code
 
 ### Use of App (Images): 
+* Signup Screen:
+<insert photo> 
+* Login Screen:
+  <insert photo> 
+* Authentication Verification:
+
+  ![firebasedbTest](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/620055ca-5f34-4bd2-9d56-b18886050c66)
+
+* Home Screen:
+  
+  <insert photo>
+  
+* Chat Screen:
+  
+  <insert photo> 
+ 
+* Firestore db: 
+
+![firestore](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/a8e0774a-41a7-4d56-9747-ffaa4a3db865) 
+
 
 ### Video Tutorials and References: 
 * _Build a Realtime Chat App with React Native and Firebase | Tutorial 2023_ : https://youtu.be/Ov3Z3vD5zFw?si=PYisHo4_eWxIrTLO 
