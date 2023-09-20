@@ -1,4 +1,4 @@
-a# EC463 SW Mini Project - Mood Chat Application 
+# EC463 SW Mini Project - Mood Chat Application 
 **Team 19:** _Killian McShane_ & _Lea Lorenzana-Garcia_
 
 ### Requirements: 
