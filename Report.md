@@ -22,9 +22,13 @@
 
 ### Use of App (Images): 
 * Signup Screen:
-<insert photo> 
+  
+<insert photo>
+
 * Login Screen:
-  <insert photo> 
+  
+<insert photo>
+  
 * Authentication Verification:
 
   ![firebasedbTest](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/620055ca-5f34-4bd2-9d56-b18886050c66)
@@ -80,3 +84,4 @@
       *  Select Settings:
         
   ![settings](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91199802/e5e9958a-5888-40ec-b120-51d001c11adb)
+
