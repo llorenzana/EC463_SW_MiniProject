@@ -23,7 +23,8 @@
 ### Use of App (Images): 
 * Signup Screen:
   
-  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/ce8090d0-8490-4d2d-be74-251d67c1efa7)
+  ![image](https://github.com/llorenzana/EC463_SW_MiniProject/assets/91902800/7554f07e-1d21-41f6-9da4-aff869a77b3d)
+
 
 
 * Login Screen:
